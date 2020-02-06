@@ -1,5 +1,5 @@
 {
-  "name": "vladcizsol/spicepay-php",
+  "name": "spicepay/spicepay-php",
   "type": "library",
   "description": "SpicePay library for PHP",
   "version": "3.0.4",
@@ -12,6 +12,8 @@
     "gateway",
     "payment"
   ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "homepage": "https://spicepay.com",
   "license": "MIT",
   "authors": [
