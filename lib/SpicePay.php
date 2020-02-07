@@ -4,7 +4,7 @@ namespace SpicePay;
 
 class SpicePay
 {
-    const VERSION = '1.0.0';
+    const VERSION = '1.0.1';
     const USER_AGENT_ORIGIN = 'SpicePay PHP Library';
 
     public static $siteId = '';
