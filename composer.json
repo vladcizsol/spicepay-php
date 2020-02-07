@@ -12,7 +12,7 @@
     "gateway",
     "payment"
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true,
   "homepage": "https://spicepay.com",
   "license": "MIT",
