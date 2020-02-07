@@ -2,7 +2,7 @@
   "name": "spicepay/spicepay-php",
   "type": "library",
   "description": "SpicePay library for PHP",
-  "version": "3.0.4",
+  "version": "1.0.0",
   "keywords": [
     "spicepay",
     "bitcoin",
